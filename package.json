@@ -1,7 +1,7 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://calvinrossinhole.github.io/",
-  "version": "0.1.1",
+  "homepage": "https://calvinrossinhole.github.io/react-frontend-dev-portfolio/",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
